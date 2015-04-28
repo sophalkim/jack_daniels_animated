@@ -1,0 +1,15 @@
+div.grey {
+	background-color: #dcdcdc;
+}
+
+a {
+	color: red;
+}
+
+.ng-invalid.ng-dirty {
+	border-color: red;
+}
+
+.ng-valid.ng-dirty {
+	border-color: green;
+}
