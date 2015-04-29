@@ -15,58 +15,73 @@
 	<link rel="stylesheet" type="text/css" href="engine3/style.css" />
 	<link rel="stylesheet" type="text/css" href="engine4/style.css" />
 	<link rel="stylesheet" type="text/css" href="engine5/style.css" />
-</head>
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine6/style.css" />
+	<!--script type="text/javascript" src="engine6/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine7/style.css" />
+	<!--script type="text/javascript" src="engine7/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine8/style.css" />
+	<!--script type="text/javascript" src="engine8/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine9/style.css" />
+	<!--script type="text/javascript" src="engine9/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
 
 <body>
 <div class="container-fluid">
 <br>
-	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
 	<div class="row">
-		<div class="col-md-3">
-			<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-	<div id="wowslider-container4">
-	<div class="ws_images"><ul>
-		<li><img src="data4/images/drink_2.png" alt="drink_2" title="drink_2" id="wows4_0"/></li>
-		<li><a href="http://wowslider.com/vi"><img src="data4/images/drink_3.png" alt="carousel slider" title="drink_3" id="wows4_1"/></a></li>
-		<li><img src="data4/images/drinks_1.png" alt="drinks_1" title="drinks_1" id="wows4_2"/></li>
-	</ul></div>
-	<div class="ws_bullets"><div>
-		<a href="#" title="drink_2"><span><img src="data4/tooltips/drink_2.png" alt="drink_2"/>1</span></a>
-		<a href="#" title="drink_3"><span><img src="data4/tooltips/drink_3.png" alt="drink_3"/>2</span></a>
-		<a href="#" title="drinks_1"><span><img src="data4/tooltips/drinks_1.png" alt="drinks_1"/>3</span></a>
-	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wordpress slider plugin</a> by WOWSlider.com v8.0</div>
-	<div class="ws_shadow"></div>
-	</div>	
-	<script type="text/javascript" src="engine4/wowslider.js"></script>
-	<script type="text/javascript" src="engine4/script.js"></script>
-	<!-- End WOWSlider.com BODY section -->
-		</div>
 
-		<div class="col-md-3">
+		<div class="col-md-2 col-md-offset-4">
 			<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-			<div id="wowslider-container5">
+			<div id="wowslider-container9">
 			<div class="ws_images"><ul>
-				<li><img src="data5/images/barrel.jpg" alt="barrel" title="barrel" id="wows5_0"/></li>
-				<li><a href="http://wowslider.com"><img src="data5/images/barrel2.jpg" alt="wordpress slider plugin" title="barrel2" id="wows5_1"/></a></li>
-				<li><img src="data5/images/portrait.jpg" alt="portrait" title="portrait" id="wows5_2"/></li>
+				<li><img src="data9/images/barrel.jpg" alt="barrel" title="barrel" id="wows9_0"/></li>
+				<li><a href="http://wowslider.com"><img src="data9/images/barrel2.jpg" alt="image slider" title="barrel2" id="wows9_1"/></a></li>
+				<li><img src="data9/images/portrait.jpg" alt="portrait" title="portrait" id="wows9_2"/></li>
 			</ul></div>
 			<div class="ws_bullets"><div>
-				<a href="#" title="barrel"><span><img src="data5/tooltips/barrel.jpg" alt="barrel"/>1</span></a>
-				<a href="#" title="barrel2"><span><img src="data5/tooltips/barrel2.jpg" alt="barrel2"/>2</span></a>
-				<a href="#" title="portrait"><span><img src="data5/tooltips/portrait.jpg" alt="portrait"/>3</span></a>
+				<a href="#" title="barrel"><span><img src="data9/tooltips/barrel.jpg" alt="barrel"/>1</span></a>
+				<a href="#" title="barrel2"><span><img src="data9/tooltips/barrel2.jpg" alt="barrel2"/>2</span></a>
+				<a href="#" title="portrait"><span><img src="data9/tooltips/portrait.jpg" alt="portrait"/>3</span></a>
 			</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wordpress slider plugin</a> by WOWSlider.com v8.0</div>
 			<div class="ws_shadow"></div>
 			</div>	
-			<script type="text/javascript" src="engine5/wowslider.js"></script>
-			<script type="text/javascript" src="engine5/script.js"></script>
+			<script type="text/javascript" src="engine9/wowslider.js"></script>
+			<script type="text/javascript" src="engine9/script.js"></script>
 			<!-- End WOWSlider.com BODY section -->
-		</div>
-
-		<div class="col-md-3">
 		</div>
 	</div>
 
-	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div class="row">
+		<div class="col-md-3">
+			<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container8">
+	<div class="ws_images"><ul>
+		<li><img src="data8/images/drink_2.png" alt="drink_2" title="drink_2" id="wows8_0"/></li>
+		<li><a href="http://wowslider.com"><img src="data8/images/drink_3.png" alt="wordpress slideshow" title="drink_3" id="wows8_1"/></a></li>
+		<li><img src="data8/images/drinks_1.png" alt="drinks_1" title="drinks_1" id="wows8_2"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="drink_2"><span><img src="data8/tooltips/drink_2.png" alt="drink_2"/>1</span></a>
+		<a href="#" title="drink_3"><span><img src="data8/tooltips/drink_3.png" alt="drink_3"/>2</span></a>
+		<a href="#" title="drinks_1"><span><img src="data8/tooltips/drinks_1.png" alt="drinks_1"/>3</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wordpress slider plugin</a> by WOWSlider.com v8.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine8/wowslider.js"></script>
+	<script type="text/javascript" src="engine8/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+		</div>
+	</div>
+
+	<!-- Footer -->
 	<div id="wowslider-container2">
 	<div class="ws_images"><ul>
 		<li><img src="data2/images/cycling148956.png" alt="cycling-148956" title="cycling-148956" id="wows2_0"/></li>
@@ -96,5 +111,8 @@
 </div>
 </body>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+	
+	
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 </html>
