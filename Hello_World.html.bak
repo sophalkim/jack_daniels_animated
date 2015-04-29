@@ -7,30 +7,26 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/angular_javascript.css">
-	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
-	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
 	<script type="text/javascript" src="engine0/jquery.js"></script>
-	<link rel="stylesheet" type="text/css" href="engine2/style.css" />
-	<link rel="stylesheet" type="text/css" href="engine2/style.css" />
-	<link rel="stylesheet" type="text/css" href="engine3/style.css" />
-	<link rel="stylesheet" type="text/css" href="engine4/style.css" />
-	<link rel="stylesheet" type="text/css" href="engine5/style.css" />
-
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine6/style.css" />
-	<!--script type="text/javascript" src="engine6/jquery.js"></script-->
-	<!-- End WOWSlider.com HEAD section -->
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine7/style.css" />
-	<!--script type="text/javascript" src="engine7/jquery.js"></script-->
-	<!-- End WOWSlider.com HEAD section -->
 	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
 	<link rel="stylesheet" type="text/css" href="engine8/style.css" />
 	<!--script type="text/javascript" src="engine8/jquery.js"></script-->
 	<!-- End WOWSlider.com HEAD section -->
 	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine9/style.css" />
-	<!--script type="text/javascript" src="engine9/jquery.js"></script-->
+	<link rel="stylesheet" type="text/css" href="engine10/style.css" />
+	<!--script type="text/javascript" src="engine10/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine11/style.css" />
+	<!--script type="text/javascript" src="engine11/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine12/style.css" />
+	<!--script type="text/javascript" src="engine12/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine13/style.css" />
+	<!--script type="text/javascript" src="engine13/jquery.js"></script-->
 	<!-- End WOWSlider.com HEAD section --></head>
 
 <body>
@@ -38,29 +34,29 @@
 <br>
 	<div class="row">
 
-		<div class="col-md-2 col-md-offset-4">
+		<div class="col-md-3 col-md-offset-3">
 			<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-			<div id="wowslider-container9">
+			<div id="wowslider-container10">
 			<div class="ws_images"><ul>
-				<li><img src="data9/images/barrel.jpg" alt="barrel" title="barrel" id="wows9_0"/></li>
-				<li><a href="http://wowslider.com"><img src="data9/images/barrel2.jpg" alt="image slider" title="barrel2" id="wows9_1"/></a></li>
-				<li><img src="data9/images/portrait.jpg" alt="portrait" title="portrait" id="wows9_2"/></li>
+				<li><img src="data10/images/barrel.jpg" alt="barrel" title="barrel" id="wows10_0"/></li>
+				<li><a href="http://wowslider.com"><img src="data10/images/barrel2.jpg" alt="slider html" title="barrel2" id="wows10_1"/></a></li>
+				<li><img src="data10/images/portrait.jpg" alt="portrait" title="portrait" id="wows10_2"/></li>
 			</ul></div>
 			<div class="ws_bullets"><div>
-				<a href="#" title="barrel"><span><img src="data9/tooltips/barrel.jpg" alt="barrel"/>1</span></a>
-				<a href="#" title="barrel2"><span><img src="data9/tooltips/barrel2.jpg" alt="barrel2"/>2</span></a>
-				<a href="#" title="portrait"><span><img src="data9/tooltips/portrait.jpg" alt="portrait"/>3</span></a>
+				<a href="#" title="barrel"><span><img src="data10/tooltips/barrel.jpg" alt="barrel"/>1</span></a>
+				<a href="#" title="barrel2"><span><img src="data10/tooltips/barrel2.jpg" alt="barrel2"/>2</span></a>
+				<a href="#" title="portrait"><span><img src="data10/tooltips/portrait.jpg" alt="portrait"/>3</span></a>
 			</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wordpress slider plugin</a> by WOWSlider.com v8.0</div>
 			<div class="ws_shadow"></div>
 			</div>	
-			<script type="text/javascript" src="engine9/wowslider.js"></script>
-			<script type="text/javascript" src="engine9/script.js"></script>
+			<script type="text/javascript" src="engine10/wowslider.js"></script>
+			<script type="text/javascript" src="engine10/script.js"></script>
 			<!-- End WOWSlider.com BODY section -->
 		</div>
 	</div>
 
 	<div class="row">
-		<div class="col-md-3">
+		<div class="col-md-2">
 			<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
 	<div id="wowslider-container8">
 	<div class="ws_images"><ul>
@@ -82,37 +78,23 @@
 	</div>
 
 	<!-- Footer -->
-	<div id="wowslider-container2">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container13">
 	<div class="ws_images"><ul>
-		<li><img src="data2/images/cycling148956.png" alt="cycling-148956" title="cycling-148956" id="wows2_0"/></li>
-		<li><img src="data2/images/digitalart182223_1920.jpg" alt="digital-art-182223_1920" title="digital-art-182223_1920" id="wows2_1"/></li>
-		<li><img src="data2/images/fire227291_1920.jpg" alt="fire-227291_1920" title="fire-227291_1920" id="wows2_2"/></li>
-		<li><img src="data2/images/forest160954.png" alt="forest-160954" title="forest-160954" id="wows2_3"/></li>
-		<li><img src="data2/images/igloo162159.png" alt="igloo-162159" title="igloo-162159" id="wows2_4"/></li>
-		<li><img src="data2/images/landscape152502.png" alt="landscape-152502" title="landscape-152502" id="wows2_5"/></li>
-		<li><a href="http://wowslider.com/vi"><img src="data2/images/leaves15757_1920.jpg" alt="jquery carousel" title="leaves-15757_1920" id="wows2_6"/></a></li>
-		<li><img src="data2/images/rainbowbridge68827.jpg" alt="rainbow-bridge-68827" title="rainbow-bridge-68827" id="wows2_7"/></li>
+		<li><img src="data13/images/barrel3.jpg" alt="barrel3" title="barrel3" id="wows13_0"/></li>
+		<li><img src="data13/images/fun.jpg" alt="fun" title="fun" id="wows13_1"/></li>
+		<li><img src="data13/images/reach.jpg" alt="reach" title="reach" id="wows13_2"/></li>
+		<li><a href="http://wowslider.com/vi"><img src="data13/images/recipe.jpg" alt="javascript slider" title="recipe" id="wows13_3"/></a></li>
+		<li><img src="data13/images/straws.jpg" alt="straws" title="straws" id="wows13_4"/></li>
 	</ul></div>
-	<div class="ws_bullets"><div>
-		<a href="#" title="cycling-148956"><span><img src="data2/tooltips/cycling148956.png" alt="cycling-148956"/>1</span></a>
-		<a href="#" title="digital-art-182223_1920"><span><img src="data2/tooltips/digitalart182223_1920.jpg" alt="digital-art-182223_1920"/>2</span></a>
-		<a href="#" title="fire-227291_1920"><span><img src="data2/tooltips/fire227291_1920.jpg" alt="fire-227291_1920"/>3</span></a>
-		<a href="#" title="forest-160954"><span><img src="data2/tooltips/forest160954.png" alt="forest-160954"/>4</span></a>
-		<a href="#" title="igloo-162159"><span><img src="data2/tooltips/igloo162159.png" alt="igloo-162159"/>5</span></a>
-		<a href="#" title="landscape-152502"><span><img src="data2/tooltips/landscape152502.png" alt="landscape-152502"/>6</span></a>
-		<a href="#" title="leaves-15757_1920"><span><img src="data2/tooltips/leaves15757_1920.jpg" alt="leaves-15757_1920"/>7</span></a>
-		<a href="#" title="rainbow-bridge-68827"><span><img src="data2/tooltips/rainbowbridge68827.jpg" alt="rainbow-bridge-68827"/>8</span></a>
-	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">carousel slider</a> by WOWSlider.com v8.0</div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">carousel bootstrap</a> by WOWSlider.com v8.0</div>
 	<div class="ws_shadow"></div>
 	</div>	
-	<script type="text/javascript" src="engine2/wowslider.js"></script>
-	<script type="text/javascript" src="engine2/script.js"></script>
+	<script type="text/javascript" src="engine13/wowslider.js"></script>
+	<script type="text/javascript" src="engine13/script.js"></script>
 	<!-- End WOWSlider.com BODY section -->
 </div>
 </body>
 
-
-	
-	
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 </html>
