@@ -11,13 +11,15 @@ body {
 #moving-tweets {
 	padding-left: 25px;
 	position: relative;
-	animation:mymove 5s infinite;
-	-webkit-animation:mymove 5s infinite;
+	opacity: 0;
+	animation:mymove 5s;
+	-webkit-animation:mymove 5s;
 }
 
 @keyframes mymove {
 	from {top:0px;}
 	to {top:600px;}
+	20% {opacity: 1;}
 	75% {opacity: .5;}
 	100% {opacity: 0;}
 }
@@ -25,7 +27,86 @@ body {
 @-webkit-keyframes mymove {
 	from {top:0px;}
 	to {top:600px;}
+	20% {opacity: 1;}
 	50% {opacity: .75;}
+	75% {opacity: .5;}
+	100% {opacity: 0;}
+}
+
+#moving-tweets2 {
+	padding-left: 25px;
+	position: relative;
+	opacity: 0;
+	animation:mymove2 5s;
+	-webkit-animation:mymove2 5s;
+	-webkit-animation-delay: 5s; /* Chrome, Safari, Opera */
+  animation-delay: 5s;
+}
+
+@keyframes mymove2 {
+	from {top:0px;}
+	to {top:600px;}
+	20% {opacity: 1;}
+	75% {opacity: .5;}
+	100% {opacity: 0;}
+}
+
+@-webkit-keyframes mymove2 {
+	from {top:0px;}
+	to {top:600px;}
+	20% {opacity: 1;}
+	75% {opacity: .5;}
+	100% {opacity: 0;}
+}
+
+#moving-tweets3 {
+	padding-left: 25px;
+	position: relative;
+	opacity: 0;
+	animation:mymove3 5s;
+	-webkit-animation:mymove3 5s;
+	-webkit-animation-delay: 10s; /* Chrome, Safari, Opera */
+  animation-delay: 10s;
+}
+
+@keyframes mymove3 {
+	from {top:0px;}
+	to {top:400px;}
+	20% {opacity: 1;}
+	75% {opacity: .5;}
+	100% {opacity: 0;}
+}
+
+@-webkit-keyframes mymove3 {
+	from {top:0px;}
+	to {top:400px;}
+	20% {opacity: 1;}
+	75% {opacity: .5;}
+	100% {opacity: 0;}
+}
+
+#moving-tweets4 {
+	padding-left: 25px;
+	position: relative;
+	opacity: 0;
+	animation:mymove4 5s;
+	-webkit-animation:mymove4 5s;
+	-webkit-animation-delay: 15s; /* Chrome, Safari, Opera */
+  animation-delay: 15s;
+}
+
+@keyframes mymove4 {
+	from {top:0px;}
+	to {top:300px;}
+	20% {opacity: 1;}
+	75% {opacity: .5;}
+	100% {opacity: 0;}
+}
+
+@-webkit-keyframes mymove4 {
+	from {top:0px;}
+	to {top:300px;}
+	20% {opacity: 1;}
 	75% {opacity: .5;}
 	100% {opacity: 0;}
 }
